@@ -1,0 +1,6 @@
+pip install Flask
+pip install opencv-python
+pip install tensorflow==2.12.0
+pip install numpy
+pip install requests
+pip install werkzeug
