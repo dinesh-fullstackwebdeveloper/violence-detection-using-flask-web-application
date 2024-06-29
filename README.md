@@ -92,3 +92,23 @@ violence-detection/
 
 The pre-trained model used in this project is a Keras model trained to detect violence in video frames. The model file ('Own_dataset_mobi_Lstm3.h5') should be placed in the root directory of the project.
 
+## 🔍 Sample outputs
+![image](https://github.com/dinesh-fullstackwebdeveloper/violence-detection-using-flask-web-application/assets/115802283/2271d120-b86c-46d5-86cf-2843d8a9a493)
+
+### 🌐 Web Interface
+
+![image](https://github.com/dinesh-fullstackwebdeveloper/violence-detection-using-flask-web-application/assets/115802283/9c3f9278-31f5-4068-9979-2e81e4fc86c0)
+
+### 📷 Using Open Camera
+
+![image](https://github.com/dinesh-fullstackwebdeveloper/violence-detection-using-flask-web-application/assets/115802283/a153275f-8baa-4fcf-9a12-3e4ab5ef3c7d)
+
+### 🎬 Using Video footage
+
+![image](https://github.com/dinesh-fullstackwebdeveloper/violence-detection-using-flask-web-application/assets/115802283/301395c3-c1b4-4537-ae00-4609d3d4d87d)
+
+
+
+
+
+
